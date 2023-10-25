@@ -26,7 +26,7 @@
 9. Take a screenshot that includes the URL address bar
 10. Add it to the assets folder
 
-# Exercise 2
+# Exercise 3
 1. Create a new React project called yourname-npm-text-animate (make sure to add your own name)
 2. Install [this](https://www.npmjs.com/package/react-animate-text) npm package
 3. Find the package in your package.json file. What version is it?
@@ -41,7 +41,7 @@
 10. Take a screenshot that includes the URL address bar
 11. Add it to the assets folder
 
-# Exercise 3
+# Exercise 4
 Let's make an accordion!
 1. Create a new React project called yourname-bootstrap-accordion (make sure to add your own name)
 2. Look at the [documentation](https://www.npmjs.com/package/react-bootstrap) to install Bootstrap
