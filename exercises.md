@@ -28,17 +28,18 @@
 
 # Exercise 2
 1. Create a new React project called yourname-npm-text-animate (make sure to add your own name)
-2. Install [this](https://www.npmjs.com/package/@thednp/react-color-picker) npm color picker
+2. Install [this](https://www.npmjs.com/package/react-animate-text) npm package
 3. Find the package in your package.json file. What version is it?
 
 
 4. Navigate to App.js in your project
 5. Delete everything in the outer-most div, so your return statement only has one div
-6. Navigate back to the color-picker documentation and refer to the section on **Usage**
-7. Render a color-picker in your App.js file
-8. Run 'npm start' in the terminal to see in the browser
-9. Take a screenshot that includes the URL address bar
-10. Add it to the assets folder
+6. Navigate back to the text-animate documentation and refer to the section on **Usage**
+7. Add the component to your App.js file
+8. Change the text to say 'Hello (your name), you are doing great!'
+9. Run 'npm start' in the terminal to see in the browser
+10. Take a screenshot that includes the URL address bar
+11. Add it to the assets folder
 
 # Exercise 3
 Let's make an accordion!
