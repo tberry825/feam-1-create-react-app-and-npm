@@ -4,8 +4,8 @@
 
 
 
-2. In App.js, delete everything in the return statement.
-3. Make a div in the return statement
+2. In App.js, delete everything in the return statement. Leave the parenthesis.
+3. Make a div in the return statement: return(<div></div>)
 4. Make a paragraph and render 'Hello World, this is (your name)'s first React Project!'
 5. Open the terminal in VSCode and type 'npm start'
 6. Check out your app in the browser
