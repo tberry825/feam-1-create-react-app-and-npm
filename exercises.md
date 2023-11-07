@@ -1,7 +1,7 @@
 # Exercise 1
 1. Create a new React project called yourname-practice (make sure to add your own name)
    1. Look in the package.json file. What version of React are we using?
-
+   18.2.0
 
 
 2. In App.js, delete everything in the return statement. Leave the parenthesis.
@@ -15,8 +15,8 @@
 # Exercise 2
 1. Create a new React project called yourname-npm-color-picker (make sure to add your own name)
 2. Install [this](https://www.npmjs.com/package/@thednp/react-color-picker) npm color picker
-3. Find the package in your package.json file. What version is it?
-
+3. Find the package in your package.json file. What version is it? 
+   0.0.9
 
 4. Navigate to App.js in your project
 5. Delete everything in the outer-most div, so your return statement only has one div
@@ -30,7 +30,7 @@
 1. Create a new React project called yourname-npm-text-animate (make sure to add your own name)
 2. Install [this](https://www.npmjs.com/package/react-animate-text) npm package
 3. Find the package in your package.json file. What version is it?
-
+   0.4.0
 
 4. Navigate to App.js in your project
 5. Delete everything in the outer-most div, so your return statement only has one div
